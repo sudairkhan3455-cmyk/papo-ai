@@ -1,0 +1,9 @@
+{
+  "name": "Papo AI",
+  "short_name": "Papo AI",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f8ff",
+  "theme_color": "#6d5dfc",
+  "description": "Friendly Gemini-powered AI assistant."
+}
